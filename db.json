@@ -1,0 +1,16 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "message": "Shirts are now half price"
+    },
+    {
+      "id": 2,
+      "message": "Checkout our new swimwear"
+    },
+    {
+      "id": 3,
+      "message": "Time for some new summer gear?"
+    }
+  ]
+}
